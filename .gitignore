@@ -1,3 +1,3 @@
 *.ipynb_checkpoints/
-dataset_MULTI_LABEL/
+Data/
 *.DS_Store
